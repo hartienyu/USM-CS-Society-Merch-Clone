@@ -16,7 +16,7 @@ The following modifications were made to the cloned code:
 
 4. **JavaScript Addition**: A JavaScript was added for the "OK" button of "Shopping Cart" page, allowing users to return to the "Merchandise" page.
 
-5. **Ongoing Work**: As of October 31, 2023, the implementation of the merch image glider is still a work in progress.
+5. **Glider**: Implemented the glider.js for the merch images.
 
 ## How to Use
 
